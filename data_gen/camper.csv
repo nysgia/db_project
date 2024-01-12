@@ -1,0 +1,31 @@
+camperID,fname,lname,phoneNum,medicalCond,age,address,gender,emergencyContact
+1,Emma,Johnson,123456789,No allergies,12,123 Pine St,Female,987654321
+2,Liam,Smith,987654321,Asthma,14,456 Oak Ave,Male,654321987
+3,Olivia,Williams,555123456,,13,789 Cedar Ln,Female,123789456
+4,Noah,Davis,789456123,Allergic to peanuts,15,321 Birch Rd,Male,456987123
+5,Sophia,Jones,456789012,No allergies,11,567 Maple St,Female,789321654
+6,William,Brown,321654987,,14,876 Elm Dr,Male,234567890
+7,Ava,Miller,789012345,Allergic to bee stings,12,234 Oak Ave,Female,890123456
+8,James,Anderson,567890123,,13,432 Pine St,Male,345678901
+9,Isabella,Wilson,234567890,Seasonal allergies,15,543 Birch Rd,Female,901234567
+10,Benjamin,Thompson,890123456,,14,654 Elm Dr,Male,678901234
+11,Sophie,Turner,432109876,No allergies,11,765 Maple St,Female,345678901
+12,Oliver,Baker,210987654,,13,876 Cedar Ln,Male,789012345
+13,Emma,Martin,654321098,Allergic to cats,12,987 Oak Ave,Female,123456789
+14,Ethan,Hall,789012345,,15,345 Birch Rd,Male,456789012
+15,Mia,Harrison,543210987,No allergies,11,678 Elm Dr,Female,890123456
+1,Emma,Johnson,123456789,No allergies,12,123 Pine St,Female,987654321
+2,Liam,Smith,987654321,Asthma,14,456 Oak Ave,Male,654321987
+3,Olivia,Williams,555123456,,13,789 Cedar Ln,Female,123789456
+4,Noah,Davis,789456123,Allergic to peanuts,15,321 Birch Rd,Male,456987123
+5,Sophia,Jones,456789012,No allergies,11,567 Maple St,Female,789321654
+6,William,Brown,321654987,,14,876 Elm Dr,Male,234567890
+7,Ava,Miller,789012345,Allergic to bee stings,12,234 Oak Ave,Female,890123456
+8,James,Anderson,567890123,,13,432 Pine St,Male,345678901
+9,Isabella,Wilson,234567890,Seasonal allergies,15,543 Birch Rd,Female,901234567
+10,Benjamin,Thompson,890123456,,14,654 Elm Dr,Male,678901234
+11,Sophie,Turner,432109876,No allergies,11,765 Maple St,Female,345678901
+12,Oliver,Baker,210987654,,13,876 Cedar Ln,Male,789012345
+13,Emma,Martin,654321098,Allergic to cats,12,987 Oak Ave,Female,123456789
+14,Ethan,Hall,789012345,,15,345 Birch Rd,Male,456789012
+15,Mia,Harrison,543210987,No allergies,11,678 Elm Dr,Female,890123456

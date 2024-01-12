@@ -1,0 +1,26 @@
+activityID,name,description,time,location,cost,date,staffID
+1,Hiking,Explore the scenic trails and breathtaking views of the nearby mountains.,9:00 AM - 12:00 PM,Mountain Trail,0,01/06/24,1
+2,Campfire Cooking,Learn the art of outdoor cooking and enjoy delicious meals under the stars.,6:00 PM - 9:00 PM,Campsite Fire Pit,15,05/06/24,2
+3,Kayaking Adventure,Embark on a thrilling kayaking adventure along the tranquil river.,10:00 AM - 1:00 PM,River Rapids,40,10/06/24,3
+4,Stargazing Night,Experience the wonders of the night sky with an expert-led stargazing session.,8:30 PM - 11:30 PM,Observation Deck,20,15/06/24,4
+5,Archery Challenge,Test your archery skills in a fun and competitive environment.,2:00 PM - 5:00 PM,Archery Range,35,20/06/24,5
+6,Nature Photography,Capture the beauty of the surroundings with a guided nature photography session.,3:00 PM - 6:00 PM,Scenic Overlook,30,25/06/24,1
+7,Outdoor Yoga,Relax and rejuvenate with an invigorating outdoor yoga session amidst nature.,7:00 AM - 9:00 AM,Yoga Meadow,15,01/07/24,2
+8,Canoeing Expedition,Embark on an adventurous canoeing expedition through the winding river.,11:00 AM - 3:00 PM,Forest Canoe Route,45,06/07/24,3
+9,Mountain Biking,Enjoy an exhilarating mountain biking experience through rugged terrains.,4:00 PM - 7:00 PM,Mountain Trails,30,11/07/24,4
+10,Wildlife Safari,Embark on a safari adventure to spot local wildlife in their natural habitat.,9:00 AM - 12:00 PM,Nature Reserve,40,16/07/24,5
+11,Rock Climbing,Challenge yourself with a thrilling rock climbing adventure in a safe environment.,2:00 PM - 5:00 PM,Climbing Wall,35,21/07/24,1
+12,Crafting Workshop,Unleash your creativity in a fun crafting workshop amidst the beauty of nature.,3:00 PM - 6:00 PM,Art Pavilion,25,26/07/24,2
+13,Outdoor Movie Night,Relax under the open sky and enjoy a movie night experience in the campground.,8:00 PM - 11:00 PM,Campsite Lawn,15,01/08/24,3
+14,Fishing Excursion,Experience the tranquility of fishing on a peaceful lake surrounded by nature.,6:00 AM - 10:00 AM,Lake Shore,25,06/08/24,4
+15,Sunset Canopy Walk,Take a scenic canopy walkway and witness a breathtaking sunset view.,6:30 PM - 8:30 PM,Canopy Walk,30,11/08/24,5
+16,Outdoor Concert,Enjoy live music in a unique outdoor setting with friends and family.,7:00 PM - 10:00 PM,Concert Stage,20,16/08/24,1
+17,Watercolor Painting,Get inspired by nature and express yourself through a watercolor painting session.,4:00 PM - 7:00 PM,Art Pavilion,25,21/08/24,2
+18,Camping Games Tournament,Participate in a friendly camping games tournament for a day full of fun.,10:00 AM - 2:00 PM,Campsite Recreation Area,15,26/08/24,3
+19,Survival Skills Workshop,Learn essential survival skills and techniques in the heart of the wilderness.,2:00 PM - 5:00 PM,Wilderness Camp,40,29/08/24,4
+20,Outdoor Photography Contest,Capture the beauty of nature and compete in an outdoor photography contest.,9:00 AM - 12:00 PM,Scenic Locations,30,29/08/24,5
+21,Kayak Excursion,Paddle through the scenic waterways and enjoy the tranquility.,10:00 AM - 1:00 PM,Lake Kayaking,35,03/06/23,1
+22,Trail Running,Experience the thrill of trail running in the heart of nature.,4:00 PM - 6:00 PM,Forest Trails,20,08/06/23,2
+23,Outdoor Meditation,Find inner peace surrounded by nature during a guided meditation session.,7:30 AM - 9:00 AM,Serenity Grove,15,13/07/23,3
+24,Geocaching Adventure,Embark on a treasure hunt using GPS coordinates in the wilderness.,2:00 PM - 4:00 PM,Hidden Trails,25,18/07/23,4
+25,Tree Canopy Zip-lining,Experience an adrenaline rush with a thrilling zip-lining adventure.,1:00 PM - 3:00 PM,Canopy Zip-line Course,50,10/08/23,5

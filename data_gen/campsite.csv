@@ -1,0 +1,41 @@
+campsiteID,location,capacity,amenities,availability,dailyprice
+1,Lakeview,6,Fire Pit,Available,45
+2,Forest Edge,4,"Picnic Table, Grill",Unavailable,30
+3,Mountain Retreat,8,"Fire Pit,Grill",Available,60
+4,Riverbank Haven,5,Picnic Table,Available,25
+5,Meadow Oasis,10,"Fire Pit,Grill",Available,50
+6,Hillside Hideaway,6,Picnic Table,Available,35
+7,Cliffside Vista,4,Fire Pit,Available,40
+8,Sunset Ridge,8,"Picnic Table,Grill",Available,55
+9,Valley Serenity,5,Fire Pit,Available,30
+10,Woodland Escape,6,"Picnic Table,Grill",Available,45
+11,Beachfront Bliss,8,Fire Pit,Available,50
+12,Countryside Haven,4,"Picnic Table,Grill",Available,35
+13,Starlight Summit,6,Fire Pit,Available,40
+14,Seaside Retreat,5,Picnic Table,Available,20
+15,Sunrise Sanctuary,10,"Fire Pit,Grill",Available,70
+16,Mountain Meadow,6,Picnic Table,Available,25
+17,Lakeside Serenade,8,"Fire Pit,Grill",Available,50
+18,Trailside Tranquility,4,Picnic Table,Available,30
+19,Rustic Refuge,6,"Fire Pit,Grill",Available,45
+20,Wilderness Wonderland,8,Picnic Table,Available,55
+21,Riverside Haven,5,Fire Pit,Available,35
+22,Skyline Sanctuary,10,"Picnic Table,Grill",Available,60
+23,Forest Retreat,6,Fire Pit,Available,25
+24,Mountain Majesty,4,"Picnic Table,Grill",Available,40
+25,Meadowlark Meadows,8,Fire Pit,Available,50
+26,Trailhead Tranquility,6,"Picnic Table,Grill",Available,35
+27,Sunset Serenade,4,Fire Pit,Available,45
+28,Skyview Summit,8,"Picnic Table,Grill",Available,60
+29,Secluded Shoreline,5,Fire Pit,Available,30
+30,Hilltop Hideout,6,"Picnic Table,Grill",Available,40
+31,Beacon's Bluff,8,Fire Pit,Available,50
+32,Whispering Woods,4,"Picnic Table,Grill",Available,30
+33,Campfire Cove,6,"Fire Pit,Grill",Available,45
+34,Lighthouse Lookout,5,Picnic Table,Available,20
+35,Sunflower Sanctuary,10,"Fire Pit,Grill",Available,70
+36,Starlit Summit,6,Picnic Table,Available,25
+37,Lighthouse Landing,8,"Fire Pit,Grill",Available,55
+38,Riverside Retreat,4,Picnic Table,Available,35
+39,Widow Mist,6,"Fire Pit,Grill",Available,45
+40,Mountain Magic,8,Picnic Table,Available,60

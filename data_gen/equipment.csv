@@ -1,0 +1,56 @@
+equipmentID,name,quantity,condition,availability,cost
+1,Hiking Boots,30,Good,Available,50
+2,Camp Stove,15,Excellent,Available,70
+3,Kayak,10,Good,Available,250
+4,Telescope,5,Excellent,Available,120
+5,Archery Set,20,Good,Available,40
+6,Camera,10,Good,Available,150
+7,Yoga Mats,25,Excellent,Available,15
+8,Canoe,8,Good,Available,200
+9,Mountain Bike,15,Good,Available,100
+10,Safari Binoculars,12,Excellent,Available,80
+11,Climbing Gear,10,Good,Available,120
+12,Art Supplies,20,Excellent,Available,20
+13,Outdoor Movie Projector,5,Good,Available,80
+14,Fishing Rod,18,Good,Available,30
+15,Canopy Walk Gear,8,Excellent,Available,50
+16,Musical Instruments,15,Good,Available,40
+17,Watercolor Painting Kit,20,Excellent,Available,20
+18,Camping Games Set,30,Good,Available,10
+19,Survival Kit,12,Excellent,Available,60
+20,Photography Equipment,10,Good,Available,100
+21,Portable Grill,25,Excellent,Available,30
+22,Sleeping Bags,40,Good,Available,25
+23,Tent,20,Good,Available,80
+24,Cooler,15,Excellent,Available,20
+25,First Aid Kit,30,Good,Available,10
+26,Portable Phone Charger,25,Good,Available,15
+27,Extra Pillows,20,Excellent,Available,8
+28,Portable Lantern,30,Good,Available,10
+29,Camp Chairs,35,Excellent,Available,15
+30,Insect Repellent,40,Good,Available,6
+31,Outdoor Blanket,20,Good,Available,10
+32,Cooking Utensils Set,25,Excellent,Available,20
+33,Camp Hammock,15,Good,Available,20
+34,Portable Speaker,20,Excellent,Available,30
+35,Travel Coffee Maker,12,Good,Available,20
+36,Compass,30,Excellent,Available,8
+37,Camping Table,18,Good,Available,15
+38,Insulated Water Bottle,40,Excellent,Available,10
+39,Multi-Tool,25,Good,Available,15
+40,Camp Shower,10,Excellent,Available,25
+41,Sunscreen,45,Good,Available,8
+42,Portable Folding Shovel,15,Excellent,Available,12
+43,Hiking Backpack,22,Good,Available,30
+44,Camping Lantern,28,Excellent,Available,12
+45,Campsite Trash Bags,50,Good,Available,5
+46,Kayak Excursion Equipment Set,5,Good,Available,120
+47,Kayak Life Jacket,10,Excellent,Available,18
+48,Trail Running Shoes,20,Good,Available,40
+49,Trail Running Hydration Pack,12,Excellent,Available,22
+50,Meditation Cushion,8,Good,Available,15
+51,Meditation Blanket,8,Excellent,Available,12
+52,Geocaching Kit,5,Good,Available,30
+53,Geocaching Compass,10,Excellent,Available,10
+54,Tree Canopy Zip-lining Harness,8,Good,Available,40
+55,Tree Canopy Zip-lining Gloves,15,Excellent,Available,18
