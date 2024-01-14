@@ -57,8 +57,7 @@ class CRUDApp:
         self.init_database() 
         self.crud_frame = tk.Frame(self.root, bd=2, relief=tk.SOLID) 
         self.crud_frame.pack(side="top", fill="both", expand=True)  
-        self.table_names = self.get_table_names()
-
+        self.table_names = self.get_table_names() 
         self.table_var = tk.StringVar()
         self.table_var.set(self.table_names[0] if self.table_names else "")
 
@@ -164,23 +163,26 @@ class CRUDApp:
  
                 result_window = tk.Toplevel(self.root)
                 result_window.title("Query Result")
-
-                tree = ttk.Treeview(result_window)
+                result_window.geometry("1400x1000")
+                tree = ttk.Treeview(result_window, style="Treeview")
  
                 if result:
                     columns = [desc[0] for desc in self.cursor.description]
                     tree['columns'] = columns
                     for col in columns:
-                        tree.heading(col, text=col)
+                        tree.column(col, anchor="center")
+                        tree.heading(col, text=col, anchor=tk.N)
+                        tree.tag_configure("evenrow", background=color1, font=font2)
+                        tree.tag_configure("oddrow", background=color5, font=font2)
  
-                    for row in result:
-                        tree.insert("", tk.END, values=row)
+                    for row_index, row in enumerate(result):
+                        tags = ("evenrow",) if row_index % 2 == 0 else ("oddrow",)
+                        tree.insert("", tk.END, values=row, tags=tags)
 
-                tree.pack(fill="both", expand=True)
+                    tree.pack(fill="both", expand=True)
             else: 
                 self.switch_table()
-
-            messagebox.showinfo("Success", "Custom query executed successfully.")
+ 
         except sqlite3.Error as e: 
             messagebox.showerror("Error", f"Error executing custom query:\n{str(e)}")
     def play_music(self):
